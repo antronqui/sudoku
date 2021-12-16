@@ -2,6 +2,7 @@
 n1=0
 n2=1
 n3=0
+print ("Version git")
 print(n1)
 print(n2)
 while(n3<n):          
@@ -11,6 +12,6 @@ while(n3<n):
     n1=n2
     n2=n3
    
-        
+ print ("Otro parrafo de ejemplo")       
       
     
